@@ -4,39 +4,15 @@
   },
   "Twitter": {
     "Keys": {
-      "consumer_key": "...",
-      "consumer_secret": "...",
-      "access_token": "...",
-      "access_token_secret": "..."
+      "consumer_key": "1wtvuXq6xpcBNkcXgUDdK5I7B",
+      "consumer_secret": "KHWc1KWU5X0L5SqfRpjJVhHBm4pwpCGQ2B9GM6kQ30xYxs9yjP",
+      "access_token": "1026194139438899200-QAPI0X9fqeGPLJyjVyuF7U7zQcx3KI",
+      "access_token_secret": "i6ySds15LzycfUH6MJgyzo2FMnDNn46pob5JIny3Dr8ny"
     },
     "Accounts": [
-      "@Cybersole",
-      "@destroyerbots",
-      "@EveAIO",
-      "@EveSNKRS",
-      "@EveCAPTCHA",
-      "@theKickStation",
-      "@soleaio",
-      "@Backdoor",
-      "@Dashe",
-      "@BrisqueIO",
-      "@GhostAIO",
-      "@AdeptBots",
-      "@AdeptAIO",
-      "@balkobot",
-      "@AMNotify",
-      "@AMNotifyCN",
-      "@AMNOTIFYJP",
-      "@AMNotifyEU",
-      "@AMNotifyCA",
-      "@AMNotifySupreme",
-      "@StrikeShoesHQ",
-      "@notify",
-      "@NotifyLite",
-      "@PeachyPings",
-      "@ExpressNotify",
-      "@NexusRetro_",
-      "@offline"
+      "@mozilla",
+      "@firefox"
+       
     ]
   }
 }
