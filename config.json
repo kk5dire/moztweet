@@ -11,7 +11,8 @@
     },
     "Accounts": [
       "@mozilla",
-      "@firefox"
+      "@firefox",
+      "@mozhacks"
        
     ]
   }
